@@ -1,0 +1,1 @@
+check_password this code is to check the password and return weak if there is less than 8 characters and return weak if the password did'nt contains a upper,lower case letter, special characters,numbers if the password contains all this satisfying conditions it returns strong.
